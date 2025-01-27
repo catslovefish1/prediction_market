@@ -3,7 +3,7 @@
  ## Probability Tokenization-A modern approach for automatic prediction market
  ### Please note that the paper is still a work in progress and may undergo further updates.
      typos existed and reference is on the way
-   catslovefish.eth and Edward Lee January 27, 2025
+  Author: catslovefish.eth and Edward Lee January 27, 2025
    
 Abstract. We introduce a probabilistic tokenization protocol that designates each event outcome as a fungible ERC-20 token, underpinned by a single bonding curve reserve. A reserve-to-tokens mapping f−1 : R → RN (and f : RN → R vise versa) ensures that each USD deposit co-mints an identical supply of all outcome tokens, anchoring their amounts to the reserve and preserving a conservation law from both a local derivative (price) and a global fraction (probability) perspective. Consequently, the total of these outcome-token prices in USD remains exactly one, establishing a robust “price–probability” duality and simplifying final settlement—only the correctly realized outcome can be redeemed at its designated value. Moreover, this property persists under external trading, since the bonding curve fixes each outcome’s total supply. By mapping traditional binary option contracts into interoperable ERC-20 tokens, the framework provides a scalable, transparent, and composable protocol for on-chain probability estimation and information aggregation.
 
