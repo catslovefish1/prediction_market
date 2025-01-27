@@ -1,4 +1,8 @@
-# This is a repo for timestamp
+# Please note that the paper is still a work in progress and may undergo further updates.
+typos existed
+reference is on the way
+
+## for timestamp
 
 CID QmTKWXxiSMFkyKwXn1yCvtr6G8EtQdVRqNh3pEavt7FwSU
 
